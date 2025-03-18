@@ -1,0 +1,3 @@
+# STRATON AUTOMATION
+
+Description of STRATON AUTOMATION GitHub
