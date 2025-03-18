@@ -6,4 +6,4 @@ straton, software solution for automation
 Put automation and communication capabilities in any electronic device, 
 in the fields of industries of embedded, energy and automation control
 
-[www.straton-plc.com](https://www.straton-plc.com)
+[straton-plc.com](https://www.straton-plc.com)
