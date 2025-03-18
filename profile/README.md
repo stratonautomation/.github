@@ -1,4 +1,4 @@
-<img width=154 src="https://github.com/straton-automation/.github/blob/main/profile/SA_logo_CENTRE_grey40.png">
+<img width=154 src="https://github.com/stratonautomation/.github/blob/main/profile/SA_logo_CENTRE_grey40.png">
 
 
 
